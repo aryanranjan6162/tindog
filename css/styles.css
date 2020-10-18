@@ -1,0 +1,86 @@
+body{
+	text-align:center;
+	
+}
+#title{
+	background-color:#ff4c68;
+}
+.header-color{background-color:#ff4c68;
+				color:white;
+				font-family: 'Chelsea Market', cursive;}
+.tindog{padding-left:125px;
+		font-size:50px;
+		font-family: 'Chelsea Market', cursive;
+	font-family: 'Piedra', cursive;}
+.adjust{padding-right:90px;
+		font-size:20px;}
+h1{	
+	color:white;
+	margin-top:80px;
+	font-family: 'Chelsea Market', cursive;
+	font-family: 'Piedra', cursive;
+	font-size:4.5rem;
+	line-height:1.5;
+	 }
+.spacing{ margin-top:140px;
+		margin-left:100px
+}
+.text-color{color:white;}
+.spacing1{ margin-top:50px;
+			margin-right:10px;
+			margin-left:25px;
+		}
+.img1{
+	transform: rotate(20deg);
+	padding:45px 80px 50px 0;
+	width:400px;
+	height:707px;
+    }
+.download-button {
+	margin-top:60px;
+}
+.hov:hover{color:#ff4c68;}
+.hov{color:#EF8172;
+		margin-bottom:20px}
+h3{	
+	margin-top:30px;
+	font-family: 'Chelsea Market', cursive;
+	font-family: 'Piedra', cursive;
+	font-size:2rem;
+	 }
+em{
+	color:white;
+	font-family: 'Chelsea Market', cursive;}
+p{color:grey;
+font-family: 'Chelsea Market', cursive;}
+#features{margin:150px 80px 150px 80px;}
+.testimonials {
+  background-color: #ef8172;
+}
+.testimonial-img{width:100px;
+			  height:100px;
+			  margin-bottom:50px;
+			  border-radius:50%;}
+.testimonial-text{
+	margin:100px 160px 20px 160px ;
+	color:white;
+	font-family: 'Chelsea Market', cursive;
+	font-family: 'Piedra', cursive;
+	font-size:3rem;}
+#press{ padding-bottom: 3%;}
+		.img-size{width: 15%;
+		margin: 20px 20px 50px;}
+#pricing{
+	margin-top:80px;
+	margin-bottom:80px;
+	text-align:center;}
+h2{	
+	font-family: 'Chelsea Market', cursive;
+	font-family: 'Piedra', cursive;
+	font-size:2.5rem;
+	 }
+.three{margin-top:20px;}
+.love{
+	background-color: #ef8172;
+	padding:200px 250px 200px 250px}
+#footer{margin :150px auto 150px auto;}
